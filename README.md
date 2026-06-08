@@ -3,7 +3,7 @@
 hello
 ## Connect with me
 - X (Twitter): xxxx🔭
-- Home Page: [https://你的个人网站.com](https://movingz.eu.cc/)
+- Home Page: [https://我的个人网站.com](https://movingz.eu.cc/)
 - Email: 🤔
 
 <!--
