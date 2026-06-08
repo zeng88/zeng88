@@ -1,6 +1,7 @@
 # zeng88, 后端开发者 & AI 爱好者
 ## Hi there 👋
 hello
+观者有缘 ，见字如晤。
 ## Connect with me
 - X (Twitter): xxxx🔭
 - Home Page: [https://我的个人网站.com](https://movingz.eu.cc/)
