@@ -2,6 +2,7 @@
 ## Hi there 👋
 hello
 观者有缘 ，见字如晤。
+一个和 AI Agent 互相折磨的 builder。
 ## Connect with me
 - X (Twitter): xxxx🔭
 - Home Page: [https://我的个人网站.com](https://movingz.eu.cc/)
