@@ -6,6 +6,7 @@ hello
 ## Connect with me
 - X (Twitter): xxxx🔭
 - Home Page: [https://我的个人网站.com](https://movingz.eu.cc/)
+- [https://简洁高效的项目管理.com](https://worklog-cloud.pages.dev/)
 - Email: 🤔
 
 <!--
