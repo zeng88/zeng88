@@ -7,6 +7,8 @@ hello
 - X (Twitter): xxxx🔭
 - Home Page: [https://我的个人网站.com](https://movingz.eu.cc/)
 - [https://简洁高效的项目管理.com](https://worklog-cloud.pages.dev/)
+- [https://儿童英语-学习资料-在线题库.com](https://dooloo.pages.dev/)
+- 
 - Email: 🤔
 
 <!--
