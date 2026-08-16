@@ -8,7 +8,7 @@ hello
 - Home Page: [https://个人站点.com](https://movingz.eu.cc/)
 - [https://简洁高效的项目管理.com](https://worklog-cloud.pages.dev/)
 - [https://儿童英语-学习资料-在线题库.com](https://dooloo.pages.dev/)
-- [https://见市.com]([https://vercel-zero-seven.vercel.app](https://vercel-zero-seven.vercel.app/))
+- [https://见市.com](https://vercel-zero-seven.vercel.app)
 - [https://通过自然语言命令构建可视化流程图.com](https://draw-two-gamma.vercel.app/)
 - Email: 🤔
 
